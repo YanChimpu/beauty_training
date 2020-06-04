@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*.swo
+__pycache__
+*.ipynb
+.ipynb_checkpoints
+.idea
+.vscode
+/temp
+/logs
+.DS_Store
+output*
+SCUT-FBP5500_v2
